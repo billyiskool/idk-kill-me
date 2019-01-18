@@ -1,0 +1,2 @@
+# idk-kill-me
+die
